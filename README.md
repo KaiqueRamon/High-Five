@@ -8,11 +8,11 @@
 
 ## High Five
 
-## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Goku Sayajin</a>, <a href="https://www.linkedin.com/in/victorbarq/">Saitama One</a>, <a href="https://www.linkedin.com/in/kaique-ramon-6975751a3/">Kaique Ramon Nogueira Dantas</a>, <a href="https://www.linkedin.com/in/victorbarq/">Yusuke Urameshi</a>, <a href="https://github.com/lfggranville/">Luiz Francisco Granville Gonçalves</a>
+## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Goku Sayajin</a>, <a href="https://www.linkedin.com/in/victorbarq/">Saitama One</a>, <a href="https://www.linkedin.com/in/victorbarq/">Ikki de Fenix</a>, <a href="https://www.linkedin.com/in/victorbarq/">Yusuke Urameshi</a>, <a href="https://github.com/lfggranville/">Luiz Francisco Granville Gonçalves</a>
 
 ## Descrição
 
-📜 O nosso proje.
+📜 O nosso projeto é um jogo digital que busca orientar alunos do Inteli e pessoas quem pretendem se inserir no mercado da tecnolgoia através dos bachareis de tecnologia ofecidos pelo MEC, entretanto não sabem qual dos cursos escolher para seguir sua carreira.
 <br><br>
 Meu projeto é um exemplo de como utilizar o github.
 <br><br>
