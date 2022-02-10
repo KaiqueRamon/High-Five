@@ -15,8 +15,7 @@
 📜 O nosso projeto é um jogo digital que busca orientar alunos do Inteli e pessoas quem pretendem se inserir no mercado da tecnolgoia através dos bachareis de tecnologia ofecidos pelo MEC, entretanto não sabem qual dos cursos escolher para seguir sua carreira.
 <br><br>
 <p align="center">
-<img src="https://scontent-gig2-1.cdninstagram.com/v/t51.2885-15/e35/273696503_316045217236905_8582995898139153955_n.jpg?_nc_ht=scontent-gig2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=-KDvS8vEvxYAX9YGl2T&edm=ALQROFkBAAAA&ccb=7-4&ig_cache_key=Mjc3MDcwMDE3OTMzODY1NTUzNA%3D%3D.2-ccb7-4&oh=00_AT-EY6mq9T296pgm78XiubR_6TIxIBvT3LXTd6-VU2AywA&oe=620B903C&_nc_sid=30a2ef" alt="NOME DO JOGO" border="0">
-  Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
+<img src="https://scontent-gig2-1.cdninstagram.com/v/t51.2885-15/e35/273696503_316045217236905_8582995898139153955_n.jpg?_nc_ht=scontent-gig2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=-KDvS8vEvxYAX9YGl2T&edm=ALQROFkBAAAA&ccb=7-4&ig_cache_key=Mjc3MDcwMDE3OTMzODY1NTUzNA%3D%3D.2-ccb7-4&oh=00_AT-EY6mq9T296pgm78XiubR_6TIxIBvT3LXTd6-VU2AywA&oe=620B903C&_nc_sid=30a2ef" alt="MY CAREER" border="0">
 </p>
 
 
