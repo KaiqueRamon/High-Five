@@ -19,7 +19,7 @@
 </p>
 
 
-💡 De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
+💡 O My Career é um jogo mobile para sistema operacional android em 2D do gênero RGP e simulação. O My Carrer é um jogo de mundo aberto e multi escolha, onde as decisões do jogador mudam a linearidade da história e desse mudo muda o seu fim e sua experiência com o jogo.
 <br><br>
 Meu projeto ajuda estudantes inteli a configurarem seus githubs.
 <br><br>
