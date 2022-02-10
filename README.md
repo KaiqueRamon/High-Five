@@ -20,10 +20,8 @@
 
 
 💡 O My Career é um jogo mobile para sistema operacional android em 2D do gênero RGP e simulação. O My Carrer é um jogo de mundo aberto e multi escolha, onde as decisões do jogador mudam a linearidade da história e desse mudo muda o seu fim e sua experiência com o jogo.
-<br><br>
-Meu projeto ajuda estudantes inteli a configurarem seus githubs.
-<br><br>
-May the force be with you!
+
+O jogo se trata basicamente de uma simulação de um jovem que inicia sua carreira na área da tecnologigia em uma megalópoli cheia de oportunidades, o mesmo personagem não sabe qual área da tecnologia deve seguir e por isso através do tempo ele testa as profissões e vai descobrindo qual o melhor caminho quer seguir, desse modo o jogador passa pela mesma experiência e descobre junto ao seu personagem baseado em suas escolhas qual curso ele deve seguir para melhor atender suas expectativas laborais.
 <br><br>
 
 ## 🛠 Estrutura de pastas
